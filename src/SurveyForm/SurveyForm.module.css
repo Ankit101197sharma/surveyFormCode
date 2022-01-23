@@ -1,0 +1,47 @@
+.contactstyle{
+    width: 50%;
+    height: auto;
+    padding: 0px 5px 20px;
+    margin: auto;
+    background-color: #34F0D6;
+}
+.mainWrapper{
+    background-color: #102156;
+    width: auto;
+    text-align: left;
+    margin: 5px;
+    padding: 10px;
+}
+form{
+    justify-content: center;
+    color: white;
+}
+form input {
+    margin: 5px;
+    
+}
+input[type=submit] {
+    background-color: green;
+    border:none;
+    color: white;
+    padding: 8px 26px;
+    margin-left: 35px;
+}
+textarea{
+    width: 80%;
+    height: 50px;
+    padding: 15px 22px;
+    box-sizing: border-box;
+    border: 2px solid #58819f;
+    border-radius: 2px;
+    resize: none;
+}
+input[type=text], input[type=email],input[type=number]{
+    width: 80%;
+    margin: 10px 0px;
+    padding: 5px 22px;
+    box-sizing: border-box;
+    border: 2px solid #58819f;
+    border-radius: 2px;
+ 
+}
